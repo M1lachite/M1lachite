@@ -29,7 +29,17 @@ I’m currently working on my skills with the following stack:
 </div>
 
 ###
+<!---Free time icons--->
+In my free time, I hone my skills in:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ableton" height="40" alt="abletonlive logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
+</div>
 
+###
 <!---Visitors counter--->
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=M1lachite.M1lachite&left_color=black&right_color=darkgreen&left_text=Visitors"  />

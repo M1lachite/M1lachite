@@ -1,8 +1,6 @@
 ### Hello there 👋
 
-I'm Kris and I welcome you on my GitHub profile.
-
-I’m currently working on my skills with the following stack:
+I'm Kris, and I welcome you to my profile, where I’m currently working on my skills with the following stack:
 <!---technological stack--->
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
